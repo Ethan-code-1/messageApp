@@ -1,0 +1,42 @@
+#messageCard{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    padding-left: 3vh;
+    padding-top: 1vh;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease-in-out;
+    background-color: #1976d2e0;
+    color: rgb(237, 232, 232);
+    padding-bottom: 1vh;
+}
+
+#messageCardEditView{
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    padding-left: 3vh;
+    padding-top: 1vh;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease-in-out;
+    background-color: #ffffffe0;
+    padding-bottom: 1vh;
+}
+
+
+.btns{
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px; 
+    margin-top: 16px;
+}
+
+
+
+.footer {
+    height: 30vh;
+}
+
+.outerContainer{
+    padding-top: 10vh; 
+}
